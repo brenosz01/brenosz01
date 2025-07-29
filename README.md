@@ -1,5 +1,5 @@
-# 💫 About Me:
-Agente do FBI<br>Colaboração com a Interpool<br>BV - RR<br>13 anos
+# 👾 Sobre mim:
+Agente do FBI 👨‍💻<br>Tec.-Interpool 👨🏻‍💻<br>Boa Vista - RR 📍<br>13 anos 👤
 
 
 ## 🌐 Socials:
