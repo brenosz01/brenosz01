@@ -109,11 +109,11 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn-icons-png.flaticon.com/512/6124/6124995.png)" 
 />
 <img 
     align="left" 
