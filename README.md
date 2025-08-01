@@ -1,5 +1,5 @@
 # 👾 Sobre mim:
-<br>Tec.-Informática 👨🏻‍💻<br>Boa Vista - RR 📍<br>13 anos 👤
+<br>Tec.-Informática 👨🏻‍💻<br>Boa Vista - RR 📍
 
 
 ## 🌐 Socials:
