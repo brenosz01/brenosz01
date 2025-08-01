@@ -101,11 +101,11 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Ubuntu" 
+    title="Ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" 
 />
 <img 
     align="left" 
