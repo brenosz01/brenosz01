@@ -57,7 +57,7 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
     />
 
 <br/>
