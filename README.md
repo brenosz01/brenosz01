@@ -43,14 +43,6 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" 
 />
-<img 
-    align="left" 
-    alt="Windows"
-    title="Windows" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/512/windows-10.png" 
-/>
 <img
     align="left"
     alt="SQL"
