@@ -58,7 +58,15 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn-icons-png.flaticon.com/512/9544/9544010.png"
-    />
+/>
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+/>
 
 <br/>
 <br/>
