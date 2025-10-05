@@ -51,6 +51,14 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/512/windows-10.png" 
 />
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"
+    />
 
 <br/>
 <br/>
