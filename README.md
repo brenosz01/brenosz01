@@ -53,8 +53,8 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 />
 <img
     align="left"
-    alt="SQL"
-    title="SQL"
+    alt="Python"
+    title="Python"
     width="30px"
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
