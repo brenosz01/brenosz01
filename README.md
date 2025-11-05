@@ -82,7 +82,7 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
   />
 
   <img 
-      src="[https://count.getloli.com/@:name](https://count.getloli.com/@demo?theme=booru-mjg)" alt=":name" 
+      src="https://count.getloli.com/@:name](https://count.getloli.com/@demo?theme=booru-mjg" alt=":name" 
       />
 
 </p>
