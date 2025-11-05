@@ -81,8 +81,4 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenosz01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img 
-      src="https://count.getloli.com/@:name](https://count.getloli.com/@demo?theme=booru-mjg" alt=":name" 
-      />
-
 </p>
