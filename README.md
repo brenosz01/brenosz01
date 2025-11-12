@@ -65,7 +65,7 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     title="HTML"
     width="30px"
     style="padding-right: 10px;"
-    src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png"
+    src="https://images.vexels.com/media/users/3/153737/isolated/preview/f73c64a90025aa54b42e9b5bd4d1a0bd-icone-de-traco-colorido-do-monitor-html.png"
 />
 
 <br/>
