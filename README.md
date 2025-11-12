@@ -37,11 +37,11 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 />
 <img 
     align="left" 
-    alt="Ubuntu"
-    title="Ubuntu" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" 
+    src="https://cdn-icons-png.freepik.com/512/2656/2656408.png" 
 />
 <img
     align="left"
@@ -58,6 +58,14 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
     width="30px"
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+/>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-html-file-document-icon-png-image_892861.jpg"
 />
 
 <br/>
