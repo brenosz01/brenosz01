@@ -1,4 +1,4 @@
-# <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=290&color=6901a8&text=Breno%20Souza&reversal=false&textBg=false&font](https://capsule-render.vercel.app/api?type=waving&height=290&color=df6d74&text=Breno%20Souza&fontColor=823g29&descAlign=62&descAlignY=63&stroke=570e14)">
+# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=df6d74&text=Breno%20Souza&fontColor=823g29&descAlign=62&descAlignY=63&stroke=570e14">
 # 👨🏻‍💻 Breno Souza
 
 **`Desenvolvedor Aprendiz`**
