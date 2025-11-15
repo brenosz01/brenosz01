@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4d27e6&text=About%20Me&fontAlignY=45&reversal=false&animation=fadeIn">
-</div>
+# 👨🏻‍💻 Breno Souza
 
-<h1 align="center">Hi <img src="icons/hi.gif" height="42"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
+**`Desenvolvedor Aprendiz`**
+
+Atualmente cursando Técnico em Informática, estou dando meus primeiros passos no mundo da programação. Gosto de explorar novas tecnologias, resolver problemas com código e aprender algo novo todos os dias. Em busca de experiências que me ajudem a crescer como desenvolvedor e construir uma carreira sólida na área de tecnologia.
+
+
+</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arthurferreiradev&style=for-the-badge&color=7300e6">
