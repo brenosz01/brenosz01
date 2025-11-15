@@ -50,14 +50,8 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 <summary>Follow me in...</summary>
 <br>
 <p align="center">
-  <a href="https://github.com/arthurferreira-dev">
+  <a href="https://github.com/brenosz01">
     <img src="https://skillicons.dev/icons?i=github">
-  </a>
-  <a href="https://gitlab.com/arthurferreira-dev">
-    <img src="https://skillicons.dev/icons?i=gitlab">
-  </a>
-  <a href="https://x.com/Ferrerita_YT">
-    <img src="https://skillicons.dev/icons?i=twitter">
   </a>
 </p>
 </details>
@@ -89,10 +83,10 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 
 <h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosz01-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosz01&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenosz01-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenosz01&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues">
 </div>
