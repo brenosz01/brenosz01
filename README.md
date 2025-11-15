@@ -8,7 +8,7 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=arthurferreiradev&style=for-the-badge&color=7300e6">
+<img src="https://komarev.com/ghpvc/?username=brenosz01&style=for-the-badge&color=7300e6">
 </div>
 
 <div align="center">
@@ -89,77 +89,10 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 
 <h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosz01-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurferreira-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues">
-</div>
-
-<br>
-<h2 align="center">My repositories in the Gitlab:</h2>
-
-<div align="center"><img src="https://skillicons.dev/icons?i=gitlab"></img></div>
-<br>
-<table align="center">
-    <tbody>
-        <tr>
-            <th>Language</th>
-            <th>Repository</th>
-        </tr>
-        <tr>
-            <td align="center"><img src="https://skillicons.dev/icons?i=js"></td>
-            <td align="center"><a href="https://gitlab.com/arthurferreira-dev/Javascript">Repository from JavaScript</a></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=html,css"></td>
-          <td align="center"><a href="https://gitlab.com/arthurferreira-dev/HTML-CSS">Repository from HTML5 and CSS3</a></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=php"></td>
-          <td align="center"><a href="https://gitlab.com/arthurferreira-dev/PHP-Moderno">Repository from PHP (PHP7 and PHP8)</a></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=py"></td>
-          <td align="center"><a href="https://gitlab.com/arthurferreira-dev/Python">Repository from Python</a></td>
-        </tr>
-    </tbody>
-</table>
-
-<h2 align="center">My Repositories in the BitBucket:</h2>
-
-<div align="center"><img src="https://skillicons.dev/icons?i=bitbucket"></div>
-<br>
-<table align="center">
-  <tbody>
-      <tr>
-        <th>Project</th>
-        <th>Repository</th>
-      </tr>
-      <tr>
-        <td aling="center"><img src="https://skillicons.dev/icons?i=js"></td>
-        <td><a href="https://bitbucket.org/arthurferreira-dev/calculadora-mestre/src/main/">Calculadora Mestre</a></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://skillicons.dev/icons?i=js"></td>
-        <td><a href="https://bitbucket.org/arthurferreira-dev/simples.js/src/main/">Simples.js</a></td>
-      </tr>
-  </tbody>
-</table>
-
-<h2 align="center">My Versions Development</h2>
-
-<div align="center">
-  <p>
-    <a href="docs/pt-BR/demo.md">Development Demo</a>
-  </p>
-
-  <p>
-    <a href="docs/pt-BR/beta.md">Development Beta</a>
-  </p>
-
-  <p>
-    <a href="docs/pt-BR/delta.md">Development Delta</a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=brenosz01-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues">
 </div>
