@@ -27,34 +27,11 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
-  <a href="https://spck.io/">
-    <img src="icons/spck-code-editor-icon.png" heigth="47px" width="47px" />
   </a>
 </p>
 </details>
 
 <details>
-<summary>--- My Tools 🛠 ---</summary>
-<br>
-<p align="center">
-  <a href="https://iconduck.com/icons/95096/xampp">
-    <img src="icons/xampp.svg" height="47px" />
-  </a>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=git">
-  <img src="https://skillicons.dev/icons?i=vercel">
-</p>
-</details>
-
-<details>
-<summary>Follow me in...</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/brenosz01">
-    <img src="https://skillicons.dev/icons?i=github">
-  </a>
-</p>
-</details>
 
 </div>
 <br>
