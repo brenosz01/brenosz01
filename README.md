@@ -11,31 +11,6 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 <img src="https://komarev.com/ghpvc/?username=brenosz01&style=for-the-badge&color=7300e6">
 </div>
 
-<div align="center">
-<details>
-<summary>--- My Operation System 🔧 ---</summary>
-<br>
-<p align="center">
-  <a her="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-</p>
-</details>
-
-<details>
-<summary>--- My codes editor 💻 ---</summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
-  </a>
-</p>
-</details>
-
-<details>
-
-</div>
-<br>
-
 <h2 align="center">I have experience in:</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-e06d14?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - shields.io">
