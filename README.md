@@ -23,6 +23,6 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
   
 <h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosz01&layout=compact&langs_count=7&theme=midnight-red&hide=scss,hack" alt="I don´t use SCSS and HACK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosz01&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
 </div>
 <br>
