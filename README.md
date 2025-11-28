@@ -12,7 +12,7 @@ Atualmente cursando Técnico em Informática, estou dando meus primeiros passos 
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=brenosz01&style=for-the-badge&color=7300e6">
+<img src="https://komarev.com/ghpvc/?username=brenosz01&style=for-the-badge&color=red">
 </div>
 
 <h2 align="center">I have experience in:</h2>
